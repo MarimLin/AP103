@@ -1,0 +1,8 @@
+Hi mama 
+新增一個檔案 2.txt
+在裡面加入假的文字當作程式碼
+將2.txt 加入至 stage area
+修改helloworld.txt 增加文字
+將helloworld.txt 加入至 stAGE AREA
+提交版本
+送上github
